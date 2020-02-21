@@ -1,0 +1,3 @@
+rootProject.name = 'spring-cloud-stream-rabbitmq-deadletter'
+
+include 'simple-deadletter-consumer'
